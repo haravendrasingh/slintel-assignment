@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/slintel-assignment/static/css/main.a8b99965.chunk.css",
+    "main.js": "/slintel-assignment/static/js/main.3b77b097.chunk.js",
+    "main.js.map": "/slintel-assignment/static/js/main.3b77b097.chunk.js.map",
+    "runtime-main.js": "/slintel-assignment/static/js/runtime-main.778d5cb1.js",
+    "runtime-main.js.map": "/slintel-assignment/static/js/runtime-main.778d5cb1.js.map",
+    "static/js/2.15141c24.chunk.js": "/slintel-assignment/static/js/2.15141c24.chunk.js",
+    "static/js/2.15141c24.chunk.js.map": "/slintel-assignment/static/js/2.15141c24.chunk.js.map",
+    "static/js/3.705eacf9.chunk.js": "/slintel-assignment/static/js/3.705eacf9.chunk.js",
+    "static/js/3.705eacf9.chunk.js.map": "/slintel-assignment/static/js/3.705eacf9.chunk.js.map",
+    "index.html": "/slintel-assignment/index.html",
+    "static/css/main.a8b99965.chunk.css.map": "/slintel-assignment/static/css/main.a8b99965.chunk.css.map",
+    "static/js/2.15141c24.chunk.js.LICENSE.txt": "/slintel-assignment/static/js/2.15141c24.chunk.js.LICENSE.txt",
+    "static/media/bannerImg.0c225cb0.png": "/slintel-assignment/static/media/bannerImg.0c225cb0.png",
+    "static/media/buyer.4a8956e9.png": "/slintel-assignment/static/media/buyer.4a8956e9.png",
+    "static/media/firm.389ac02a.png": "/slintel-assignment/static/media/firm.389ac02a.png",
+    "static/media/footer.d83bf9d9.png": "/slintel-assignment/static/media/footer.d83bf9d9.png",
+    "static/media/org-chart.6394540a.png": "/slintel-assignment/static/media/org-chart.6394540a.png",
+    "static/media/Slintel.module.scss": "/slintel-assignment/static/media/photo-hero.a5710745.png",
+    "static/media/psycho.2160c777.png": "/slintel-assignment/static/media/psycho.2160c777.png",
+    "static/media/right-arrow.8d5e1a1c.svg": "/slintel-assignment/static/media/right-arrow.8d5e1a1c.svg",
+    "static/media/sale.cdcfc58b.png": "/slintel-assignment/static/media/sale.cdcfc58b.png",
+    "static/media/slintel_logo.6f7c7fcc.svg": "/slintel-assignment/static/media/slintel_logo.6f7c7fcc.svg",
+    "static/media/tech.55592e3b.png": "/slintel-assignment/static/media/tech.55592e3b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.778d5cb1.js",
+    "static/js/2.15141c24.chunk.js",
+    "static/css/main.a8b99965.chunk.css",
+    "static/js/main.3b77b097.chunk.js"
+  ]
+}
